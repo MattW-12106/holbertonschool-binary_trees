@@ -7,7 +7,7 @@
  */
 size_t find_depth(const binary_tree_t *tree)
 {
-	size_t depth = 0
+	size_t depth = 0;
 
 	while (tree)
 	{
